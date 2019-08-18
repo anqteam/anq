@@ -1,0 +1,23 @@
+{
+  "name": "anq",
+  "version": "0.0.1-beta.1",
+  "description": "anq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqteam/anq.git"
+  },
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "author": "ad-fe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anqteam/anq/issues"
+  },
+  "homepage": "https://github.com/anqteam/anq#readme"
+}
